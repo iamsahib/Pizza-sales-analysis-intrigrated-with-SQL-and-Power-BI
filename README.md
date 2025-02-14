@@ -1,6 +1,6 @@
 # Pizza-sales-analysis-intrigrated-with-SQL-and-Power-BI
 
-#Objective
+Objective
 
 This dataset contains pizza sales transactions, including order details, pricing, timestamps, and pizza characteristics. The objective is to analyze sales performance, customer preferences, and revenue trends to derive business insights.
 
