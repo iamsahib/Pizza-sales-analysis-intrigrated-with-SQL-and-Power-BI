@@ -7,6 +7,9 @@ This dataset contains pizza sales transactions, including order details, pricing
 This dataset can be used for:
 
 Sales Analysis: Identifying best-selling and least-selling pizzas.
+
 Revenue Insights: Analyzing total revenue by pizza size, category, and time periods.
+
 Customer Behavior: Understanding peak ordering times and seasonal trends.
+
 Operational Efficiency: Optimizing inventory and pricing strategies.
