@@ -88,3 +88,12 @@ Capitalize on Peak Sales Days & Months
 
 Plan marketing campaigns and staffing around Wednesdays, Saturdays, and Sundays to handle high demand.
 Prepare for strong sales in January and December, possibly due to holidays and New Year's celebrations.
+
+DASHBOARD
+
+![image](https://github.com/user-attachments/assets/a35ce4d6-4595-4215-a427-57cbc0841de8)
+
+CALCULATION TABLE
+
+![image](https://github.com/user-attachments/assets/1a525c40-9e46-46be-b154-dca90ba1727e)
+
