@@ -18,7 +18,7 @@ Operational Efficiency: Optimizing inventory and pricing strategies.
 
 **Insights and Recommendations**
 
-Key Insights:
+**Key Insights:**
 
 Total Revenue & Sales Volume
 
